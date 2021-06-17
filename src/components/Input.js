@@ -17,8 +17,8 @@ const Input = () => {
              value={input}
              onChange={handleventchange}
              />
-             <p>Search through your desired engines or maybe, all at once.</p>
-             <br/>
+            <p>Search through your desired engines or maybe, all at once.</p>
+            <br/>
             <Btn enter = {input} />
         </div>
     )
